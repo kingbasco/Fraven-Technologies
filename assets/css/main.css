@@ -3425,7 +3425,7 @@ input.main-search-input::placeholder {
   color: var(--theme);
   font-size: 22px;
   font-weight: 600;
-  border: 1.2px solid rgba(94, 50, 255, 0.2705882353);
+  border: 1.2px solid rgba(255, 50, 50, 0.271);
   background: #ffd7d7;
 }
 @media (max-width: 991px) {
@@ -4107,7 +4107,7 @@ input.main-search-input::placeholder {
   line-height: 30px;
   text-align: center;
   background-color: var(--white);
-  box-shadow: 0px 5px 30px rgba(92, 48, 253, 0.3);
+  box-shadow: 0px 5px 30px rgba(253, 48, 48, 0.3);
   border-radius: 50%;
   position: relative;
 }
